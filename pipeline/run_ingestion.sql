@@ -1,0 +1,1 @@
+\i sql/ingestion/load_sales_raw.sql

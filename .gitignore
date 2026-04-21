@@ -1,0 +1,12 @@
+# Data
+data/raw/*.csv
+
+# Power BI cache
+*.pbix~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
