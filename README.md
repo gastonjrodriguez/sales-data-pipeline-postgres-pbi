@@ -28,6 +28,17 @@ The objective is to generate a dashboard to analyze metrics such as:
 
 ---
 
+## Key Insights
+
+* Margin % shows a steady upward trend throughout the period
+* A significant structural increase occurs in early 2016 (~+13 pp)
+* Rolling 3-month margin confirms sustained improvement
+* Margin volatility decreases after the increase, suggesting stabilization
+* Late 2015 shows minor margin pressure before the growth phase
+* Most consumers are in their early to mid-30s, indicating a core customer segment
+
+---
+
 ## Architecture
 
 The project follows a medallion-style architecture:
