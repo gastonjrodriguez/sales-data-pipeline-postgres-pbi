@@ -1,7 +1,7 @@
 # 📊 Sales Data Pipeline (PostgreSQL + Power BI)
 
 This project implements an end-to-end data pipeline using PostgreSQL, transforming raw CSV data into a star schema model ready for analytics and visualization in Power BI.
-It improves the existing script (`old_data_model.sql`).
+It improves the pre-existing script (`old_data_model.sql`).
 
 ---
 
